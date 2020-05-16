@@ -1,0 +1,16 @@
+
+
+@media screen and (max-width: 1200px) {
+
+    .navbar-brand{
+        padding: 10px 15px;
+    }
+
+    .nav_logo{
+        width: 50%;
+    }
+
+    .services-image{
+        width: 50%;
+    }
+}

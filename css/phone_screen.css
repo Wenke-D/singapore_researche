@@ -1,0 +1,16 @@
+
+@media screen and (max-width: 576px) {
+
+    /* navigator */
+    .nav_logo{
+        width: 150px;
+    }
+
+    .services-image{
+        display: none;
+    }
+
+    .services-content{
+        width: 100%;
+    }
+}
