@@ -1,5 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#"><img class="nav_logo" src="<?php echo _IMG.'logo.png'?>" alt="LOGO"></a>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="<?php echo _LINK.'index.php'?>"><img class="nav_logo" src="<?php echo _IMG.'logo.png'?>" alt="LOGO"></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -24,5 +24,6 @@
                 <a class="nav-link" href="<?php echo _LINK.'About.php';?>"><?php echo _ABOUT?></a>
             </li>
         </ul>
+        <button class="nav-button"><a class="nav-button-link" href="<?php echo _LINK.'Contact.php'?>">Contact Us</a></button>
     </div>
 </nav>

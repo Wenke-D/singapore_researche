@@ -18,8 +18,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <img src="<?php echo IMG . 'logo_bottom.png' ?>" alt="logo" class="img-responsive bottom_nav_logo">
-                    <p class="bottom_nav_text">Recruitment license number 12345678910</p>
+                    <img src="<?php echo _IMG . 'logo_bottom.png' ?>" alt="logo" class="img-responsive bottom_nav_logo">
+                    <p class="bottom_nav_text">Recruitment license number 20S0165</p>
                     <p class="bottom_nav_text">&copy; xxxxxxxxxxxxxxx 2020 </p>
                 </div>
                 <div class="col-md-6">

@@ -15,4 +15,7 @@
     <link rel="stylesheet" href="<?php echo _CSS.'style.css';?>"  type="text/css">
 </head>
 <body>
+<div class="top">
 <?php include (__DIR__.'/nav.php')?>
+<?php include (__DIR__.'/banner.php')?>
+</div>
