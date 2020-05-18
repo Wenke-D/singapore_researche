@@ -1,0 +1,216 @@
+/* Executive page style*/
+.Executive-top {
+    background-image: url("../img/excusive_banner_bg.jpg");
+    height: 676px;
+}
+
+.E-banner-title-1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: rgba(252, 200, 0, 1);
+    line-height: 72px;
+}
+
+.E-banner-title-2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: rgba(252, 255, 255, 1);
+    line-height: 72px;
+}
+
+.E-banner-text {
+    margin: 0 auto;
+    width: 752px;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    line-height: 36px;
+    text-align: justify;
+}
+
+.small-bar {
+    width: 1914px;
+    height: 100px;
+    display: table;
+    background: rgba(246, 244, 239, 1);
+    padding: 30px 300px;
+
+}
+
+.small-bar-item {
+    display: table-cell;
+    vertical-align: middle;
+    width: 200px;
+    text-align: center;
+    border-right: solid;
+    border-width: 1px;
+}
+
+.small-bar-item-last {
+    display: table-cell;
+    vertical-align: middle;
+    width: 200px;
+    text-align: center;
+    border-right: none;
+}
+
+.small-bar-text {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgba(7, 7, 7, 1);
+}
+
+/* A diversity of clients */
+.client{
+
+}
+
+.client-img-area{
+    background-image: url("../img/executive/excutive_bg2.png");
+}
+
+.experience-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgba(7, 7, 7, 1);
+    line-height: 30px;
+}
+
+.client-title {
+    height: 103px;
+    line-height: 103px;
+    background-image: url("../img/executive/02.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* A multicultural understanding */
+.understanding-text{
+    width: 777px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.understanding-tag{
+    display: table;
+    background-image: url("../img/executive/02-03-bg1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 152px;
+    width: 1081px;
+    margin: 20px auto;
+}
+
+.tag-item1{
+    display: table-cell;
+    text-align: center;
+    width: 250px;
+    padding-top: 50px;
+}
+.tag-item2{
+
+    display: table-cell;
+    text-align: center;
+}
+.tag-item3{
+    display: table-cell;
+    text-align: center;
+    width: 250px;
+}
+
+.item-title{
+    font-size:24px;
+    font-weight:bold;
+    color:rgba(255,255,255,1);
+    line-height:30px;
+}
+
+.item-text{
+    font-size:12px;
+    font-weight:400;
+    color:rgba(255,255,255,1);
+    line-height:12px;
+}
+
+.understanding-bottom-text{
+    width:470px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+/* A rigorous process */
+.process-title{
+    background-image: url("../img/executive/04.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 103px;
+    line-height: 103px;
+}
+
+.process-text{
+    width: 778px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+.process-item{
+    border-left: 1px solid rgba(246,244,239,1);
+}
+
+.process-item-first{
+    border-left: none;
+}
+
+.process-item-title{
+    font-size:18px;
+    font-weight:bold;
+    color:rgba(7,7,7,1);
+    border-top: 2px solid red;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+
+.process-item-text{
+    border-top: 1px solid rgba(246,244,239,1);
+}
+
+/* The 8 key advantages of our Executive Search service */
+
+.key-titre{
+    height: 103px;
+    line-height: 103px;
+    background-image: url("../img/executive/05.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.key-item{
+    width:280px;
+    height:320px;
+    background:rgba(246,244,239,1);
+    border: 10px solid white;
+}
+
+.key-item-title{
+    font-size:18px;
+    font-weight:bold;
+    color:rgba(7,7,7,1);
+    margin-top: 20px;
+    height: 60px;
+}
+
+.key-item-text{
+    font-size:14px;
+    font-weight:400;
+    color:rgba(92,88,86,1);
+    line-height:26px;
+    margin: 20px auto;
+}
+
+
+
+/* end of Executive page */
